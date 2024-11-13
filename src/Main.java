@@ -36,6 +36,9 @@ public class Main {
         System.out.println("Задача 4");
 
 
+        System.out.println("Задача 5");
+
+
 
 
     }
